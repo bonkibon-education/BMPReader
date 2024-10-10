@@ -1,0 +1,16 @@
+horizontal-width-1px\bmp24
+horizontal-width-1px\bmp24-changed-rows
+horizontal-width-1px\bmp32
+horizontal-width-1px\bmp32-changed-rows
+vertical-height-1px\bmp24
+vertical-height-1px\bmp24-changed-rows
+vertical-height-1px\bmp32
+vertical-height-1px\bmp32-changed-rows
+table-static-size\bmp24
+table-static-size\bmp24-changed-rows
+table-static-size\bmp32
+table-static-size\bmp32-changed-rows
+table-dynamic-size\bmp24
+table-dynamic-size\bmp24-changed-rows
+table-dynamic-size\bmp32
+table-dynamic-size\bmp32-changed-rows
